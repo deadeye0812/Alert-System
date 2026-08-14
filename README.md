@@ -40,4 +40,4 @@ Problems:
 The alarm works as long as the laser is interrupted, but when it got only short interrupted it instantly stops again.
 
 Future:
-Find a way to activate a kind of 5s timer through the output of the comparator which then triggers the astable mode for 5s.
+Add a second 555 timer in monostable mode to set a period of time in where the alarm goes off.
